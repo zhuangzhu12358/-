@@ -36,5 +36,6 @@
 2．手机端会在三测全平台开放内测时更新，还请手机端的玩家们耐心等待一下下
 
 
-1.4版本项目更新下载地址：https://github.com/zhuangzhu12358/Arknights-Endgame-Player-Made-Private-Server-Tool/releases/tag/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%E7%BB%88%E6%9C%AB%E5%9C%B0%E7%8E%A9%E5%AE%B6%E8%87%AA%E5%88%B6%E7%A7%81%E6%9C%8D%E5%B7%A5%E5%85%B7
+# 1.4版本项目更新下载地址：
+https://github.com/zhuangzhu12358/Arknights-Endgame-Player-Made-Private-Server-Tool/releases/tag/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%E7%BB%88%E6%9C%AB%E5%9C%B0%E7%8E%A9%E5%AE%B6%E8%87%AA%E5%88%B6%E7%A7%81%E6%9C%8D%E5%B7%A5%E5%85%B7
 
