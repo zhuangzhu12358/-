@@ -5,11 +5,8 @@
 
 阅前须知：该工具没有对本次测试保密核心内容与玩法进行透露，仅发布更新官方PV内公开内容。且坚决不会用于商业行为，所有商品支持收入与玩家赞助除必要维护以外会全部以发福利的形式抽给大家，我也会尽可能倾听与满足各位的需求。本次更新用时将近一个月，文案正文都写差不多一个星期，还望各位能够支持一下作者大大，不要为了一时快感拿去倒卖，好吗？这会给我带来极大的困扰（原因见下文），感谢！QwQ！ 工具主要功能介绍： ①原理：通过玩家自建服务器与游戏启动器建立通信，对游戏本体进行定向注册，修改游戏内时间与登陆窗口，实现免资格不受测试时间限制的部分内容试玩 
 
-![屏幕截图 2025-06-16 224256](https://github.com/user-attachments/assets/0a851668-912c-4808-b425-c21d0f1f8f81)
-![屏幕截图 2025-06-16 200752](https://github.com/user-attachments/assets/5126e45a-4daa-4df3-a3a4-b5a72ad7e8ea)
-![屏幕截图 2025-06-16 200538](https://github.com/user-attachments/assets/115decd9-64ea-4d88-8cbc-b829e71e3ffd)
-![屏幕截图 2025-06-16 195951](https://github.com/user-attachments/assets/4c5f5f60-ce4d-488e-8875-41914b98bc7b)
-![屏幕截图 2025-06-16 195905](https://github.com/user-attachments/assets/2d8f8406-f951-4d74-8104-7bdbc71e43f3)
+![屏幕截图 2025-06-17 034139](https://github.com/user-attachments/assets/fc9d8f8a-748b-4db6-a335-cd887a03cd33)
+![屏幕截图 2025-06-16 224256](https://github.com/user-attachments/assets/267070e7-bc87-4b3b-afc4-4889cd7b6c12)
 
 
 作者想说的心里话：
