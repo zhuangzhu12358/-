@@ -1,6 +1,6 @@
 # 《明日方舟：终末地》玩家自制私服工具
 # 《明日方舟：终末地》ipv授权工具（禁止开包，仅供授权参考！）
-# 原创作者直链地址：https://git.freespyware.store/suikoakari/Campofinale/src/branch/master/docs/README_zh-CN.md
+# 原创作者署名引用来源：https://git.freespyware.store/suikoakari/Campofinale/src/branch/master/docs/README_zh-CN.md
 # 工具交流QQ群：
 # 明日方舟终末地玩家自制工具共创群：1022544055
 # 欢迎各位加入！！！
